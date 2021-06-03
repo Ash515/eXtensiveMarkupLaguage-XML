@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema  xmlns="https://www.w3.org/2001/XMLSchema"
+targetNamespace="http://www.github.com/schema"
+xmlns:tns="https://www.github.com/schema"
+elementFormDefault="qualified">
+
+</schema>

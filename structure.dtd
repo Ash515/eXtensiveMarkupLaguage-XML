@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Employee (employee+)>
+<!ELEMENT  employee (name,salary)>
+<!ELEMENT  name (#PCDATA)>
+<!ELEMENT  salary (#PCDATA)>
+<!ATTLIST employee aid ID #REQUIRED >
+<!ATTLIST employee lang (cobol|python|javascript) "Python">

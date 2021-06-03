@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Employee SYSTEM "structure.dtd">
+<Employee>
+
+    <employee aid="emp1"  lang="python">
+    <name>Ashwin</name>
+    <salary>20000</salary>
+     </employee>
+
+     <employee aid="emp2" lang="cobol">
+        <name>Kumar</name>
+        <salary>20000</salary>
+         </employee>
+   
+</Employee>
